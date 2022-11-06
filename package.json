@@ -4,5 +4,24 @@
     "express": "^4.18.2",
     "express-react-views": "^0.11.0",
     "react": "^18.2.0"
-  }
+  },
+  "name": "rest-rant",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZDC7096/Rest-Rant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZDC7096/Rest-Rant/issues"
+  },
+  "homepage": "https://github.com/ZDC7096/Rest-Rant#readme"
 }
