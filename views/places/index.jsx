@@ -19,6 +19,7 @@ function index (data) {
       </Def>
   )
   }
+  <link rel="stylesheet" href="/css/style.css" />
   
   
 

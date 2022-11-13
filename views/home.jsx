@@ -4,9 +4,16 @@ const Def = require('./default')
 function home () {
     return (
       <Def>
-          <main>
-              <h1>HOME</h1>
-          </main>
+<main>
+    <h1>HOME</h1>
+    <div>
+      <img src="/images/Rest-Rant-Image-SHISHKABOB.jpg" alt="Shishkabob" />
+    </div>
+    <a href="/places">
+        <button className="btn-primary">Places Page</button>
+    </a>
+</main>
+
       </Def>
     )
   }
